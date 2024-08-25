@@ -53,8 +53,8 @@ The database schema diagram provides an overview of the data structure used in M
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/cyber-bytezz/task
+   cd task
    ```
 
 2. **Install dependencies**
